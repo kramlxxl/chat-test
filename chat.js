@@ -1,5 +1,5 @@
 // API klíč OpenAI - dbej na bezpečnost a v produkci ho nedávej přímo do klientského kódu
-const apiKey = 'TVŮJ_OPENAI_API_KLÍČ'; // Nahraď svým API klíčem
+const apiKey = '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'; // Nahraď svým API klíčem
 
 // Odeslání zprávy uživatele
 async function sendMessage() {
