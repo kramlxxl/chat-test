@@ -1,4 +1,4 @@
-const apiKey = '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'; // Nahraď správným API klíčem
+const apiKey = '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'; // Nahraď správným API klíčem
 
 // Odeslání zprávy uživatele
 async function sendMessage() {
